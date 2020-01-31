@@ -1,10 +1,18 @@
-# Contributing to the VotingWorks Ballot Marking Device
+# Contributing
 
-:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+This project welcomes contributions and suggestions. Most contributions require
+you to agree to a Contributor License Agreement (CLA) declaring that you have
+the right to, and actually do, grant us the rights to use your contribution. For
+details, visit https://cla.opensource.microsoft.com.
 
-We’re working on defining guidelines for contributing to this project.
+When you submit a pull request, a CLA bot will automatically determine whether
+you need to provide a CLA and decorate the PR appropriately (e.g., status check,
+comment). Simply follow the instructions provided by the bot. You will only need
+to do this once across all repos using our CLA.
 
-In the meantime, if you have questions/comments, please reach out to us:
-
-- [voting_works](https://twitter.com/voting_works/) on Twitter
-- Send us a message from our website: https://voting.works/
+This project has adopted the
+[Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+For more information see the
+[Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any
+additional questions or comments.
