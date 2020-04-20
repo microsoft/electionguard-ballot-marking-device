@@ -1,4 +1,7 @@
-# ElectionGuard SDK Ballot Marking Device Reference Implementation
+![Microsoft Defending Democracy Program: ElectionGuard](images/electionguard-banner.svg)
+
+# 🗳 ElectionGuard Ballot Marking Device 
+[![license](https://img.shields.io/github/license/microsoft/electionguard-admin-device)](License)
 
 The ElectionGuard Reference Ballot Marking Device (BMD) is a fully functional
 implementation of a BMD built in ReactJS. It uses the
@@ -76,3 +79,7 @@ lint modern css. [Jest](https://jestjs.io/),
 [react-testing-library](https://github.com/kentcdodds/react-testing-library),
 and [Cypress](https://www.cypress.io/) are used to test components and
 end-to-end user flows.
+
+## Contributing
+
+Help defend democracy and [contribute to the project](CONTRIBUTING).
