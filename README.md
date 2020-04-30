@@ -82,4 +82,4 @@ end-to-end user flows.
 
 ## Contributing
 
-Help defend democracy and [contribute to the project](CONTRIBUTING).
+Help defend democracy and [contribute to the project](CONTRIBUTING.md).
